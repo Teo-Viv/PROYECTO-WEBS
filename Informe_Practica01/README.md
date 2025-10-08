@@ -3,7 +3,7 @@
 Este proyecto será desarrollado durante el ciclo 2025-B para la materia de Aplicaciones Web y Moviles.
 
 # Descripción 
-Esta aplicación funciona como una herramienta de encuestas para los centros de salud en zonas rurales de Ecuador. Permite recopilar información sobre grupos prioritarios de atención sin necesidad de conexión a internet, funcionando en modo offline. Esto permite a los encuestadores del MIES/MSP recopilar datos sobre la población y determinar la prioridad de atención en los centros de salud, agregando la opcion de "Triage".
+
 
 **Conclusiones y Recomendaciones:**
 
